@@ -22,6 +22,6 @@ public class CalculatorAlgoTest {
 	@Test
     public void shouldMultiplyTwoNumbers()
     {
-    	assertEquals("2 x 3 should be 6", 6, CalculatorAlgo.multi(2, 3))
+    	assertEquals("2 x 3 should be 6", 6, CalculatorAlgo.multi(2, 3));
     }
 }
